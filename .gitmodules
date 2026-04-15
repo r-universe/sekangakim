@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "FAPA"]
+	path = FAPA
+	url = https://github.com/sekangakim/fapa
 [submodule "pams"]
 	path = pams
 	url = https://github.com/sekangakim/pams
