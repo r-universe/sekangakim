@@ -5,6 +5,9 @@
 [submodule "FAPA"]
 	path = FAPA
 	url = https://github.com/sekangakim/fapa
+[submodule "lorbridge"]
+	path = lorbridge
+	url = https://github.com/sekangakim/lorbridge
 [submodule "pams"]
 	path = pams
 	url = https://github.com/sekangakim/pams
